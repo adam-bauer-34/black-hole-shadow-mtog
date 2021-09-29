@@ -76,7 +76,7 @@ Contains data for all accretion scenarios used in *Spherical accretion…* as we
 A few codes for model output analysis. 
 
 #### computation
-Contains code to calculate the ratio of the characteristic radius of emission to critical impact parameter, denoted as $\vartheta$ in *Spherical accretion…*. Versions for both bondi and radial infall cases.
+Contains code to calculate the ratio of the characteristic radius of emission to critical impact parameter, denoted as &vartheta;, in *Spherical accretion…*. Versions for both bondi and radial infall cases.
 
 #### shadow
 Contains code to make a grid of synthetic Event Horizon Telescope images.
