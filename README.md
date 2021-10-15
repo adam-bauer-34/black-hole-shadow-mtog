@@ -1,7 +1,7 @@
 # Generating synthetic black hole images
 Written by: Adam Bauer
 
-Affiliation: Department of Physics, University of Illinois at Urbana-Champaign, 1110 West Green St, Urbana, IL 61801, USA
+Affiliation: Department of Physics, University of Illinois at Urbana-Champaign Loomis Laboratory, 1110 West Green St, Urbana, IL 61801, USA
 
 To contact: adammb4 [at] illinois [dot] edu
 
