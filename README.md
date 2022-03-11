@@ -22,16 +22,19 @@ To contact: adammb4 [at] illinois [dot] edu
 This code can be used to generate the intensity profile of plasma being accreted onto a black hole, which can then be transformed into an Event Horizon Telescope-esque image. Other science can be done on the intensity profile as well. 
 
 ## Publication <a name="pubs"></a>
-We have submitted a publication which uses this code and its extensions; I only put here what I think will be of general use to the science community. Hence, *not every piece of code that was used in the paper is here.* If you’re interested in a specific calculation, don’t hesitate to reach out at the email above. I’m happy to help and share more of my science!
+We have submitted a publication which uses this code and its extensions; I only put here what I think will be of general use to the science community. Hence, *not every piece of code that was used in the paper is here.* If you’re interested in a specific calculation, don’t hesitate to reach out at the email above. I’m happy to help and share more of my science! 
+
+**If you do use this code, please cite the paper below.**
 
 Paper title: *Spherical accretion in alternative theories of gravity*
 
 Abstract: The groundbreaking image of the black hole at the center of the M87 galaxy has raised questions at the intersection of observational astronomy and black hole physics. How well the radius of the black hole shadow can be measured, and can this measurement be used to distinguish general relativity from other theories of gravity? We explore these questions using a simple spherical flow model in general relativity, scalar Gauss—Bonnet gravity, and a parameterized metric. We assume an optically thin plasma with power-law emissivity in radius. Along the way we provide a derivation of a generalized Bondi flow, as well as a piecewise-analytic model for the brightness profile of a cold inflow. We use the second moment of the image as a proxy for EHT observables, and compute the ratio of the second moment to the radius of the black hole shadow.   We show that corrections to this ratio from modifications to general relativity are subdominant compared to corrections to the critical impact parameter, and argue that this is generally true.  We find that astrophysical model parameters are the dominant source of uncertainty in this calculation, which highlights the importance of understanding the astrophysical model. Given a sufficiently accurate astrophysical model, however, it is possible using measurements of the black hole shadow to distinguish between general relativity and other theories of gravity.
 
-Arxiv link: https://arxiv.org/abs/2111.02178
+arXiv: https://arxiv.org/abs/2111.02178
+DOI: https://doi.org/10.3847/1538-4357/ac3a03
 
 ## Model assumptions <a name="ass"></a>
-For a full overview of the model and its implementation, see the paper mentioned above, whenever it is available. :P
+For a full overview of the model and its implementation, see the paper mentioned above.
 
 ### Astrophysical model assumptions <a name="astroass"></a>
 We make the following assumptions about the astrophysical flow:
